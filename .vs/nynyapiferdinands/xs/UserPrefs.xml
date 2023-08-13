@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{31ABD68E-F257-4B6B-BA13-C374F6A2D2A3}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="nynyapiferdinands/Controllers/bookingController.cs">
+    <Files>
+      <File FileName="nynyapiferdinands/Models/bookingModel.cs" />
+      <File FileName="nynyapiferdinands/Controllers/bookingController.cs" Line="153" Column="18" />
+      <File FileName="nynyapiferdinands/appsettings.Development.json" />
+      <File FileName="nynyapiferdinands/WeatherForecast.cs" />
+      <File FileName="nynyapiferdinands/Properties/launchSettings.json" />
+      <File FileName="nynyapiferdinands/appsettings.json" />
+      <File FileName="nynyapiferdinands/Startup.cs" />
+      <File FileName="nynyapiferdinands/MySqlDatabaseSettings.cs" />
+      <File FileName="nynyapiferdinands/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nynyapiferdinands" expanded="True">
+            <Node name="nynyapiferdinands" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.nynyapiferdinands PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
